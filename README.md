@@ -1,2 +1,2 @@
 # MyProject
-react-native
+react-native application
